@@ -46,6 +46,7 @@ ul li a{
     margin-top: 10px;
     padding: 30px;
     border-radius: 20px;
+    object-fit: contain;
 }
 .container .title{
     font-weight: bold;
