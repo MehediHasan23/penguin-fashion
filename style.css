@@ -1,0 +1,102 @@
+header{
+    background-color: #FFFBF0;
+    
+}
+.navbar img{
+    width: 291px;
+    height: 39px;
+    
+
+}
+ul li a{
+    float: right;
+    margin-left: 10px;
+    font-weight: bold;
+    
+}
+/* banner section  */
+.banner{
+    margin-top: 40px;
+    padding-bottom: 130px;
+}
+.container h1{
+    font-size: 70px;
+    font-weight: bold;
+    line-height: 80px;
+} 
+
+.container .promo-text-color{
+    color:  #FABE4C;
+}
+.btn{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    width: 170px;
+    height: 60px;
+    border: none;
+    width: 170px;
+    height: 60px;
+    color: white;
+}
+/* women section  */
+.women-jack{
+    margin-top: 50px;
+}
+.women-jack img{
+    background-color: rgba(211, 211, 211, 0.274);
+    margin-top: 10px;
+    padding: 30px;
+    border-radius: 20px;
+}
+.container .title{
+    font-weight: bold;
+    font-size: 48px;
+    margin-bottom: 31px;
+}
+.container .card{
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
+.card .card-img-top{
+    width: 334px;
+    height: 327px;
+}
+/* .card .first-img{
+    width: 293px;
+    height: 293px;
+}
+.card .second-img{
+    width: 203px;
+    height: 273px;
+}
+.card .third-img{
+    width: 210px;
+    height: 257px;
+}
+.card .fourth-img{
+    width: 202px;
+height: 269px;
+}
+.card .fifth-img{
+    width: 243px;
+height: 256px;
+}
+.card .sixth-img{
+    width: 192px;
+    height: 280px;
+} */
+
+.card-footer{
+    border: none;
+    background-color: white;
+}
+/* third section  */
+.third{
+    margin-top: 130px;
+}
+.bx-shadow{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
